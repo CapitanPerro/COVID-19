@@ -98,7 +98,7 @@ input[type="submit"],
 .wpcf7 textarea,
 .wpcf7 input.wpcf7-form-control.wpcf7-submit,
 .hero_content_widget .read-more:hover { 
-    border-color: #red; 
+    border-color: #070e31; 
 }
 .site-title a,
 .main-navigation a:hover,
@@ -151,4 +151,11 @@ article .entry-title a,
 .main-navigation .search.search-open svg.icon-close,
 .main-navigation svg.icon-down {
     fill: #070e31;
+}
+
+  
+.elementor-widget-testimonial .elementor-testimonial-job {
+    color: #f00 !important;
+    font-family: "Roboto Slab", Sans-serif !important;
+    font-weight: 400 !important;
 }
