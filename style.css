@@ -98,7 +98,7 @@ input[type="submit"],
 .wpcf7 textarea,
 .wpcf7 input.wpcf7-form-control.wpcf7-submit,
 .hero_content_widget .read-more:hover { 
-    border-color: #070e31; 
+    border-color: #red; 
 }
 .site-title a,
 .main-navigation a:hover,
